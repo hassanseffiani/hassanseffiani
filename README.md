@@ -1,13 +1,5 @@
 <!--
 **hassanseffiani/hassanseffiani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&email=hide&login=hseffian)](https://github.com/mohouyizme/1337-readme)
-<a href="https://github.com/hassanseffiani?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassanseffiani&theme=dark"/>
-</a>
-<a href="https://github.com/hassanseffiani?tab=repositories">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=hassanseffiani&line_height=40&show_icons=true&theme=dark">
-</a>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -19,3 +11,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&email=hide&login=hseffian)](https://github.com/mohouyizme/1337-readme)
+
+<a href="https://github.com/hassanseffiani?tab=repositories">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassanseffiani&theme=dark"/>
+</a>
+<a href="https://github.com/hassanseffiani?tab=repositories">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=hassanseffiani&line_height=40&show_icons=true&theme=dark">
+</a>
